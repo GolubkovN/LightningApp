@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1084655518690",
+    "project_id": "lightning-eb689",
+    "storage_bucket": "lightning-eb689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084655518690:android:85162b0061dfa718d36fbb",
+        "android_client_info": {
+          "package_name": "com.lightningapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVedCLP1lNNpla-sIEdQ7tlYGGb1Q55Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
